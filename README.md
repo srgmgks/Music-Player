@@ -4,9 +4,11 @@ This is a simple music player application built using Python and the Pygame libr
 
 ## Requirements
 
-Python 3.x
-Pygame library (pip install pygame)
-Tkinter library (usually included with Python)
+1. Python 3.x
+
+2. Pygame library (pip install pygame)
+
+3. Tkinter library (usually included with Python)
 
 ## How to Use
 
